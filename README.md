@@ -1,1 +1,5 @@
-# Intern-Work2-Facial-Landmark-Detection
+#Dependencies
+pip install numpy opencv-python dlib imutils
+
+
+
